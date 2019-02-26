@@ -1,0 +1,36 @@
+Alpha_Al
+http://journals.aps.org/pr/abstract/10.1103/PhysRev.60.597
+
+Silica (Conductivity and Heat Capacity)
+http://journals.aps.org/prb/abstract/10.1103/PhysRevB.4.2029
+
+Alpha_SiO2
+http://iopscience.iop.org/0022-3727/6/17/313
+
+Silicon
+http://www.ioffe.rssi.ru/SVA/NSM/Semicond/Si/thermal.html
+
+Aluminium Cp
+http://cryogenics.nist.gov/MPropsMAY/3003F%20Aluminum/3003FAluminum_rev.htm
+
+Cp_SCS
+http://iopscience.iop.org/1347-4065/50/11S/11RG01
+
+Optical Properties of Silicon (300K)
+http://www.pveducation.org/pvcdrom/materials/optical-properties-of-silicon
+
+Refractive Index of Silicon vs T
+http://www.nist.gov/data/PDFfiles/jpcrd162.pdf
+
+Themo-optic coefficient silicon
+(Low temp) 	Komma, J., Schwarz, C., Hofmann, G., Heinert, D., & Nawrodt, R. (2012). Thermo-optic coefficient of silicon at 1550 nm and cryogenic temperatures. Applied Physics Letters, 101(4), 041905. doi:10.1063/1.4738989
+(>300K )	Della Corte, F. G., Esposito Montefusco, M., Moretti, L., Rendina, I., & Cocorullo, G. (2000). Temperature dependence analysis of the thermo-optic effect in silicon by single and double oscillator models. Journal of Applied Physics, 88(2000), 7115. doi:10.1063/1.1328062
+
+Resistance(T) of Ti/TiN films
+http://jss.ecsdl.org/content/2/1/Q12.full
+http://arxiv.org/pdf/1307.3781v2.pdf
+
+Resistivity_Ti.csv
+Kemp, WRG and Klemens, PG and White, GK,. "Thermal and electrical conductivities of iron, nickel, titanium, and zirconium at low temperatures", Australian Journal of Physics, 1956
+
+
